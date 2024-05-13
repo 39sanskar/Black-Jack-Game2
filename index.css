@@ -2,13 +2,28 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-size: cover;
     text-align: center;
-    color: black;
+    color: white;
+    background-image: url("blackjack-image.png");
+    font-weight: bold;
 }
 
 h1{
-   color: black;
+   color: goldenrod;
 }
+button{
+    color:darkred;
+    width: 95px;
+    background-color: goldenrod;
+    padding-top : 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin: 2px;
+    cursor: pointer;
 
+
+}
 #message-el {
-     
+    font-style:italic;
 }
