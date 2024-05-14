@@ -20,7 +20,8 @@ button{
     border: none;
     border-radius: 2px;
     margin: 2px;
-    cursor: pointer;
+    margin-bottom:4px;
+    margin-top:2px;
 
 
 }
